@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 5016,
+          "bottomRow": 1290,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -22,6 +22,7 @@
           "version": 53,
           "minHeight": 1292,
           "parentColumnSpace": 1,
+          "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
@@ -44,7 +45,7 @@
               "isLoading": false,
               "animateLoading": true,
               "parentColumnSpace": 17.65625,
-              "leftColumn": 17,
+              "leftColumn": 12,
               "autoPlay": false,
               "key": "cta5pd7kd2"
             }
